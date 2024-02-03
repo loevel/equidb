@@ -1,0 +1,168 @@
+{ "emploies":[
+  {
+    "id": 1,
+    "reference": "EQM0121CU",
+    "poste": "Conseiller en expérience utilisateur UX",
+    "ville": [
+      "Brossard ",
+      " Québec",
+      " Québec"
+    ],
+
+    "debut": "2023-10-01T00:00:00.000Z",
+    "fin": "2023-10-30T00:00:00.000Z",
+
+  "taches":{},
+  "exigences":{},
+  "salaire":null,
+  "dureeContrat":null,
+  "avantages":null
+  },
+  {
+    "id": 2,
+    "reference": "EQM0121CI",
+    "poste": "Concepteur d'interface UI",
+    "ville": [
+      "Brossard ",
+      " Québec"
+    ],
+    "detail": "",
+    "debut": "2023-10-01T00:00:00.000Z",
+    "fin": "2023-10-30T00:00:00.000Z",
+
+    "taches":{},
+    "exigences":{},
+    "salaire":null,
+    "dureeContrat":null,
+    "avantages":null
+  },
+  {
+    "id": 3,
+    "reference": "EQM0121IW",
+    "poste": "Intégrateur Web (front end)",
+    "ville": [
+      "Brossard ",
+      " Québec"
+    ],
+
+    "debut": "2023-10-01T00:00:00.000Z",
+    "fin": "2023-10-30T00:00:00.000Z",
+
+    "taches":{},
+    "exigences":{},
+    "salaire":null,
+    "dureeContrat":null,
+    "avantages":null
+  },
+  {
+    "id": 4,
+    "reference": "EQM0121DW",
+    "poste": "Développeur Web généraliste (full stack)",
+    "ville": [
+      "Brossard ",
+      "Québec",
+      " Québec"
+    ],
+
+    "debut": "2023-10-01T00:00:00.000Z",
+    "fin": "2023-10-30T00:00:00.000Z",
+
+    "taches":{},
+    "exigences":{},
+    "salaire":null,
+    "dureeContrat":null,
+    "avantages":null
+  },
+  {
+    "id": 5,
+    "reference": "EQM0122AS",
+    "poste": "Administrateur de système local",
+    "ville": [
+      "Brossard ",
+      "Montréal",
+      " Québec"
+    ],
+
+    "debut": "2023-10-01T00:00:00.000Z",
+    "fin": "2023-10-30T00:00:00.000Z",
+
+    "taches":{},
+    "exigences":{},
+    "salaire":null,
+    "dureeContrat":null,
+    "avantages":null
+  },
+  {
+    "id": 6,
+    "reference": "EQM0123PS",
+    "poste": "Programmeur SQL intermédiaire",
+    "ville": [
+      "Brossard ",
+      "Québec",
+      " Québec"
+    ],
+
+    "debut": "2023-10-01T00:00:00.000Z",
+    "fin": "2023-10-30T00:00:00.000Z",
+
+    "taches":{},
+    "exigences":{},
+    "salaire":null,
+    "dureeContrat":null,
+    "avantages":null
+  },
+  {
+    "id": 7,
+    "reference": "EQM0124DR",
+    "poste": "Agent.e de Ressources Humaines - dotation",
+    "ville": [
+      "Brossard ",
+      " Québec"
+    ],
+
+    "debut": "2023-10-01T00:00:00.000Z",
+    "fin": "2023-10-30T00:00:00.000Z",
+
+    "taches":{},
+    "exigences":{},
+    "salaire":null,
+    "dureeContrat":null,
+    "avantages":null
+  },
+  {
+    "id": 8,
+    "reference": "EQM0125CP",
+    "poste": "Chargé de projet TI",
+    "ville": [
+      "Brossard ",
+      " Québec"
+    ],
+
+    "debut": "2023-10-01T00:00:00.000Z",
+    "fin": "2023-10-30T00:00:00.000Z",
+
+    "taches":{},
+    "exigences":{},
+    "salaire":null,
+    "dureeContrat":null,
+    "avantages":null
+  },
+  {
+    "id": 9,
+    "reference": "EQM0126AF",
+    "poste": "Agent de service en soutien administratif pour les données de facturation",
+    "ville": [
+      "Brossard ",
+      " Québec"
+    ],
+
+    "debut": "2023-10-01T00:00:00.000Z",
+    "fin": "2023-10-30T00:00:00.000Z",
+
+    "taches":{},
+    "exigences":{},
+    "salaire":null,
+    "dureeContrat":null,
+    "avantages":null
+  }
+]}
